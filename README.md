@@ -29,12 +29,12 @@ git clone https://github.com/HexedReaper/dotfiles.git
 
 
 
-3. Enter the cloned directory
+2. Enter the cloned directory
 ```shell
 cd dotfiles
 ```
 
-2. Make symlink with this command
+3. Make symlink with this command
 
 ```shell
 ln -s ./wallpapers ~/PATH/YOU/WANT
